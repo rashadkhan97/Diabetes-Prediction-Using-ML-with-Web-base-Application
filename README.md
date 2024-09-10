@@ -1,5 +1,5 @@
 # Diabetes Prediction System Using Machine Learning in A web-based application
-This is my final year capstone project, titled "Diabetes Prediction Using Machine Learning with Web-based Application." The system is designed to predict whether a patient may have diabetes using a machine-learning model and a web-based interface.
+This is my final year capstone project, titled "Diabetes Prediction System Using Machine Learning in A web-based application." The system is designed to predict whether a patient may have diabetes using a machine-learning model and a web-based interface.
 
 
 ## Content:
